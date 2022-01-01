@@ -1,4 +1,4 @@
-Video to Text generator
+Audio to Text generator
 
 A Python script to connvert large video files to text files by recognising speech
 Steps it performs:
