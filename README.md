@@ -1,6 +1,6 @@
-Audio to Text generator
+# Audio to Text generator
 
-A Python script to convert large video files to text files by recognising speech
+## A Python script to convert large video files to text files by recognising speech
 - Steps it performs:
 1. Converts video file to audio file
 2. Breaks the converted audio file into chunks based on minimum silence time(default 0.5 secs) between two words and minimum silence sound(deafult 16dBps) which determines the chunks breaking size and stores them in a audio_chunks folder.
